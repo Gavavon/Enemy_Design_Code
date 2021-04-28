@@ -16,7 +16,7 @@ if it is currently patrolling area 2
  * 40% chance continue
  * 50% chance patrol area 1
  * 10% chance idle
- * 
+
 if it is currently idle
  * 60% chance patrol area 1
  * 40% chance patrol area 2
