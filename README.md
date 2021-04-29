@@ -7,6 +7,7 @@ The code will randomly choose a state to start in one of 3 states
 Between these stats the NPC will choose randomly from the stats and do actions based on the state it is in
 
 These are the probabilites of the next state it will choose after it has patrolled an area
+
 if it is currently patrolling area 1
  * 40% chance continue
  * 30% chance patrol area 2
